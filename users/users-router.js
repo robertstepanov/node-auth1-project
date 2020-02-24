@@ -4,7 +4,7 @@ const Users = require('./users-model.js');
 
 /**
  * @api {get} /users Request User Information
- * @apiName GetUser
+ * @apiName Users
  * @apiGroup Users
  * 
  * @apiParam {Number} id Users unique ID
